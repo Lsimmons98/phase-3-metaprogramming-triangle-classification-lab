@@ -1,5 +1,3 @@
-require "pry"
-
 class Triangle
   def initialize side_one, side_two, side_three
     @sides = [side_one, side_two, side_three]
